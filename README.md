@@ -6,7 +6,7 @@
 Wolf-Alex-Werewolf = {
   age: 38,
   code: [C],
-  learning_code:[C], [Python], [Bash], [HTML], [CSS], [PHP5], [PERL]
+  learning_code:[C], [Python], [Bash], [HTML], [CSS], [PHP](ver.5), [PERL], [MysSQL](ver.5),
   tools: [Visual Studio Code], [Notepad ++], [Codevision C AVR],
 }
 ```
